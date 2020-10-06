@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title">Trivia</string>
+    <string name="true_title">TRUE</string>
+    <string name="false_title">FALSE</string>
+    <string name="previous">Previous</string>
+    <string name="next">next</string>
+    <string name="no_internet">No internet Connection !!</string>
+</resources>
